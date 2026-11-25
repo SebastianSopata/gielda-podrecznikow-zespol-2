@@ -7,7 +7,7 @@
 
 ## Dokumentacja
 Dokumentacja projektu znajduje się w folderze `docs/` (plik PDF wygenerowany z szablonu LaTeX):
-* [K1 – Koncepcja, mapa ekranów i makiety low-fi (PDF)](docs/K1.pdf)
+* [K1 – Koncepcja, mapa ekranów i makiety low-fi (PDF)](docs/k1.pdf)
 
 ## Opis projektu i założenia (Etap K1)
 * **Użytkownik i cel:** Student chcący szybko znaleźć i kupić używany podręcznik na konkretny przedmiot lub wystawić własną książkę z poprzedniego semestru.
