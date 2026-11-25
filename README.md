@@ -8,3 +8,4 @@
 ## Dokumentacja
 Dokumentacja projektu znajduje się w folderze `docs/` (plik PDF wygenerowany z szablonu LaTeX).
 
+#test
